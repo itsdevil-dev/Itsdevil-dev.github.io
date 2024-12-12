@@ -32,7 +32,7 @@ I believe in progress over perfection. As I learn new languages, tools, and fram
 🚀 **Take a look around!**  
 Feel free to explore my work and connect with me. I'd love to hear your thoughts or collaborate on exciting projects! 
 
-🔗 [**Visit my Portfolio**](https://MysticalDevs.github.io)
+🔗 [**Visit my Portfolio**](https://Itz-Murali.github.io)
 
 ---
 
