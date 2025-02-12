@@ -1,0 +1,168 @@
+@media (max-width: 1024px) { 
+  #image-container {
+    width: 90%;
+  }
+  .transparent-img {
+    width: 100%;
+  }
+  .circle-img {
+    width: 100%;
+  }
+  .cool-text {
+    font-size: 2rem;
+  }
+  .about-container {
+    max-width: 700px;
+  }
+  .about-title {
+    font-size: 1.3rem;
+  }
+  .about-subtext {
+    font-size: 0.9rem;
+  }
+  .skills-title {
+    font-size: 1.8rem;
+  }
+}
+
+@media (max-width: 767px) {
+  #image-container {
+    width: 80%;
+  }
+  .circle-img {
+    width: 60%;
+  }
+  .cool-text {
+    font-size: 1.6rem;
+  }
+  .about-container {
+    max-width: 700px;
+  }
+  .about-title {
+    font-size: 1rem;
+  }
+  .about-subtext {
+    font-size: 0.8rem;
+  }
+  .skills-title {
+    font-size: 1.5rem;
+  }
+}
+
+
+
+@media (max-width: 480px) { 
+  #image-container {
+    width: 50%;
+  }
+  .transparent-img {
+    width: 50%;
+  }
+  .circle-img {
+    width: 30%;
+  }
+  .cool-text {
+    font-size: 1rem;
+  }
+  .about-container {
+    max-width: 500px;
+  }
+  .about-title {
+    font-size: 1rem;
+  }
+  .about-subtext {
+    font-size: 0.6rem;
+  }
+  .skills-title {
+    font-size: 1rem;
+  }
+}
+
+
+
+@media (min-width: 600px) {
+  .button-container {
+    max-width: 600px;
+    justify-content: space-between;
+  }
+}
+
+@media (min-width: 1600px) {
+  .contact-me-text {
+    font-size: 3rem;
+  }
+  .contact-me-c {
+    font-size: 1.5rem;
+    max-width: 700px;
+  }
+  .social-media a {
+    width: 70px;
+    height: 70px;
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 1599px) {
+  .contact-me-text {
+    font-size: 2.5rem;
+  }
+  .contact-me-c {
+    font-size: 1.3rem;
+    max-width: 600px;
+  }
+  .social-media a {
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .contact-me-text {
+    font-size: 1.5rem;
+  }
+  .contact-me-c {
+    font-size: 1.2rem;
+    max-width: 550px;
+  }
+  .social-media a {
+    width: 55px;
+    height: 55px;
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 767px) {
+  .contact-me-text {
+    font-size: 1.3rem;
+  }
+  .contact-me-c {
+    font-size: 1rem;
+    max-width: 450px;
+    padding: 0 10px;
+  }
+  .social-media {
+    gap: 10px;
+  }
+  .social-media a {
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 479px) {
+  .contact-me-text {
+    font-size: 1.2rem;
+  }
+  .contact-me-c {
+    font-size: 0.9rem;
+    max-width: 400px;
+    padding: 0 15px;
+  }
+  .social-media a {
+    width: 45px;
+    height: 45px;
+    font-size: 18px;
+  }
+}
