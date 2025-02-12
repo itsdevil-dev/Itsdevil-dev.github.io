@@ -159,7 +159,6 @@
       const progressText = document.querySelector('.progress-text');
       const loadingContainer = document.querySelector('.loading-container');
 
-      // Create floating particles
       function createParticle() {
         const particle = document.createElement('div');
         particle.className = 'particle';
@@ -174,12 +173,10 @@
         });
       }
 
-      // Generate particles periodically
       const particleInterval = setInterval(() => {
         createParticle();
       }, 300);
 
-      // Simulate loading progress
       let currentProgress = 0;
       const interval = setInterval(() => {
         currentProgress += Math.random() * 12;
@@ -194,8 +191,7 @@
           setTimeout(hideLoadingScreen, 500);
         }
       }, 200);
-
-      // Smoothly hide the loading screen
+      
       function hideLoadingScreen() {
         loadingScreen.style.opacity = '0';
         setTimeout(() => {
