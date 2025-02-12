@@ -20,13 +20,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
     
 document.querySelector(".projects-btn").addEventListener("click", function() {
-        document.body.style.opacity = "0";
-        setTimeout(() => {
-            window.location.href = "Projects/index.html";
-        }, 500);
-    });
+    document.body.style.opacity = "0";
+    setTimeout(() => {
+        window.location.assign("Projects/index.html");
+    }, 500);
+});
 
-    
-    window.onload = function() {
-        document.body.style.opacity = "1";
-    };
+window.onload = function() {
+    document.body.style.opacity = "1";
+};
