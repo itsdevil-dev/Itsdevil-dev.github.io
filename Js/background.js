@@ -1,31 +1,29 @@
 var gradientColorsArray = new Array(
-"#3f51b5",
-"#ff4081",
-"#6a1b9a",
-"#43a047",
-"#e53935",
-"#00897b",
-"#fbc02d",
-"#1976d2",
-"#8e24aa",
-"#7b1fa2",
-"#f57c00",
-"#f44336",
-"#303f9f",
-"#0d1b2a",
-"#1b2631",
-"#3a506b",
-"#5bc0be",
-"#f0ead2",
-"#ff6f61",
-"#d45d00",
-"#3faffa",
-"#fdc830",
-"#ff9a00",
-"#3e1a47",
-"#e45c80",
-"#4f7cac",
-
+  "#FF6F91", // Rose Pink
+  "#845EC2", // Soft Purple
+  "#FFC75F", // Warm Yellow
+  "#F9F871", // Soft Lemon
+  "#00C9A7", // Mint Green
+  "#B39CD0", // Lavender
+  "#FF9671", // Sunset Orange
+  "#0081CF", // Bright Blue
+  "#D65DB1", // Orchid
+  "#F6D6AD", // Peach Cream
+  "#6C5B7B", // Muted Purple
+  "#C06C84", // Rose Mauve
+  "#355C7D", // Deep Teal
+  "#F67280", // Coral Pink
+  "#A8E6CF", // Pale Mint
+  "#FFD3B6", // Soft Apricot
+  "#FF8C94", // Blush
+  "#6DD5FA", // Sky Blue
+  "#2193b0", // Ocean Blue
+  "#00b09b", // Aqua Green
+  "#fcb045", // Golden Amber
+  "#ff6f61", // Tomato
+  "#7f5a83", // Dusty Violet
+  "#feb47b", // Soft Orange
+  "#3e2f5b"  // Twilight Purple
 );
 
 
