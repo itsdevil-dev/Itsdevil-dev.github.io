@@ -394,6 +394,20 @@ body {
   margin-top: 20px;
 }
 
+.small-stat-box {
+  background-color: transparent;
+  padding: 10px;
+  
+}
+
+
+.small-stat-box img {
+  width: 40%;
+  border-radius: 30px;
+}
+  
+							  
+
 .stat-box {
   background-color: transparent;
   padding: 10px;
@@ -1077,6 +1091,7 @@ body {
     height: auto !important;
   }
 }
+
 
 
 
