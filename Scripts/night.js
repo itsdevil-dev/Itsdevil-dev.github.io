@@ -1,9 +1,6 @@
 var gradientColorsArray = new Array(
   
-  "#1F3B4D", // dark ocean teal
-  "#2C2A4A", // twilight violet
-  "#3B1F2B", // dark maroon
-  "#2D1E12", // deep brown
+  
   "#0E2F44", // midnight sea blue
   "#1B2E2C", // forest green-black
   "#3B2F63", // indigo night
